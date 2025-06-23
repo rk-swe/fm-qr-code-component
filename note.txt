@@ -1,0 +1,7 @@
+semantic html
+flexbox
+grid
+css resets
+bem naming
+tailwind css
+vite
